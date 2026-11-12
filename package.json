@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build"
+    "build": "vite build",
+    "test": "npm run build && node scripts/verify.cjs"
   },
   "keywords": [],
   "author": "",
