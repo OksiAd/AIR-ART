@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
-    "test": "npm run build && node scripts/verify.cjs"
+    "test": "npm run build && node scripts/verify.cjs && node scripts/verify-projects.cjs"
   },
   "keywords": [],
   "author": "",
