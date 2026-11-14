@@ -1,0 +1,30 @@
+{
+  "site": "https://berezichi-air.ru/",
+  "instagram": "https://www.instagram.com/berezichi_air/",
+  "photos": [
+    {
+      "file": "cover.webp",
+      "source": "https://static.tildacdn.com/tild3964-3562-4038-b335-346361346332/IMG_4166.jpeg"
+    },
+    {
+      "file": "hero.webp",
+      "source": "https://static.tildacdn.com/tild3732-6134-4538-b435-663232643263/IMG_4172.jpeg"
+    },
+    {
+      "file": "estate.webp",
+      "source": "https://static.tildacdn.com/tild3732-6134-4538-b435-663232643263/IMG_4172.jpeg"
+    },
+    {
+      "file": "forest.webp",
+      "source": "https://static.tildacdn.com/tild3964-3562-4038-b335-346361346332/IMG_4166.jpeg"
+    },
+    {
+      "file": "glass.webp",
+      "source": "https://static.tildacdn.com/tild6363-3933-4235-b661-643938393331/IMG_4180.jpeg"
+    },
+    {
+      "file": "camp.webp",
+      "source": "https://static.tildacdn.com/tild6364-3661-4564-b432-333265346231/38E8ED7C-1391-45B7-B.jpeg"
+    }
+  ]
+}
